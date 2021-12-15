@@ -1,4 +1,10 @@
 #! /usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+__author__ = 'Jonatan Morales'
+__version__ = '20211215'
+
+
 import logging
 import secrets
 
