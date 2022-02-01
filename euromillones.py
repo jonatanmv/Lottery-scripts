@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 __author__ = 'Jonatan Morales'
-__version__ = '20211215'
+__version__ = '1.0.0'
 
 
 import logging
