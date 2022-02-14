@@ -4,7 +4,6 @@
 __author__ = 'Jonatan Morales'
 __version__ = '1.0.0'
 
-
 import logging
 import secrets
 
