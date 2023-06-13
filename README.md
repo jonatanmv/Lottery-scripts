@@ -1,6 +1,6 @@
 # Lottery Scripts
 |Script|Lottery|
 |---|---|
-|euromillones.py|EuroMillions|
+|euromillones.py|EuroMilliones|
 |primitiva.py|La Primitiva|
 
